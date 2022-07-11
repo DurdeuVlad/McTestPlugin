@@ -1,0 +1,6 @@
+name: TestPlugin
+version: '1.0-SNAPSHOT'
+main: com.proioi.TestPlugin
+api-version: 1.19
+authors: [ Proioi ]
+website: www.proioi.com
